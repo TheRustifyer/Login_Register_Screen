@@ -1,6 +1,6 @@
 # Login Register Screen
 
-Free Python login register screen for your projects
+Free Python login register screen for your projects. You can use it at your convenience for the project(s) you desire.
 
 ## How it's made?
 
@@ -11,7 +11,7 @@ This program is made in Tkinter/Tcl. It's a pretty simple tech but it's worth yo
 - Custom titlebar, avoiding (if you desire) native OS window border implementation.
 - Full integrated with a little `sqlite3`database. You can create users since the moment on what you clone this project and start play with the program.
 - Complete separated parts of the program, avoiding python files with > 1000 lines of code, which ends with a more debuggleable code.
-- Everything is a `custom widget`. That's a non-native Python feature implemented thought OOP, trying to gap close Flutter UI's in a basic level.
+- Everything is a `custom widget`. That's a non-native Python feature implemented thought OOP, trying to gap close Flutter UI's in at a code-organizationp level.
 - You can integrate it in almost every single project where you need a Login/Register Screen.
 - It could be easily upgraded to interact with REST API endpoint's, or authenticate users on a external DB or throught technologies like Django-Admin.
 
